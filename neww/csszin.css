@@ -1,8 +1,21 @@
 body {
-    background: image("backgroud.jpg") no-repeat center top fixed;
+background-image: url(../neww/backgroud.png);
+background-repeat: no-repeat;
+background-size: cover;
+background-position: top center;
 
-    -webkit-background-size: cover;
-    -moz-background-size: cover;
-    -o-background-size: cover;
-    background-size: cover;
+}
+
+h1 {
+    font-style: italic;
+    font-size: xx-large;
+    color: seashell ; 
+    text-align: center;   
+}
+
+div{
+    font-style: italic;
+    font-size: x-large;
+    text-align: center;
+    color: seashell;
 }

@@ -1,1 +1,3 @@
-document.write("olá ");
+var nome = prompt("Digite seu nome")
+
+document.write("Olá " + nome)
