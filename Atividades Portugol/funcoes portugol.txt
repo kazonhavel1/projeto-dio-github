@@ -1,3 +1,0 @@
-// = Comentarios
-
-"\n" = quebra de linha (pular 1 linha)
