@@ -1,21 +1,28 @@
 body {
-background-image: url(../neww/backgroud.png);
-background-repeat: no-repeat;
-background-size: cover;
-background-position: top center;
-
+    background-image: center;
+    background-repeat: no-repeat;
+    background-image: url(../neww/backgroud.png);
 }
 
 h1 {
     font-style: italic;
-    font-size: xx-large;
     color: seashell ; 
     text-align: center;   
+    font-size: 55pt;
 }
 
-div{
+.code{
     font-style: italic;
-    font-size: x-large;
+    font-size: 45pt;
     text-align: center;
-    color: seashell;
+    color: black;
+    
+
+}
+
+.beacon{
+    font-style: italic;
+    font-size: xx-large;
+    text-align: center;
+    color: black;
 }
