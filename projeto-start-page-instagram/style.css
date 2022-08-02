@@ -139,6 +139,14 @@ Parametrização 2 celular*/
     background-image: url(../projeto-start-page-instagram/fts/image.png);
 }
 
+.h1  {
+        font-style: italic;
+        color: seashell ; 
+        text-align: end;   
+        font-size: 55pt;
+    }
+
+
 /* media queries tablet/mobile */
 
 @media (Max-width: 1024px){
