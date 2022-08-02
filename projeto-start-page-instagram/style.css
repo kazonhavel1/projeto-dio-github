@@ -35,9 +35,9 @@ body{
 
 .instagram-phone img{
     height: 35rem;
-    overflow: hidden;
+    /*overflow: hidden;
     padding: 0;
-    position: absolute;
+    position: absolute;*/
 }
 
 /*.celular {
@@ -51,7 +51,7 @@ Parametrização 2 celular*/
     align-items: center;
     justify-content: space-around;
     flex-direction: column;
-    width: 45%;
+    width: 50%;
     height: 34rem;
 }
 
