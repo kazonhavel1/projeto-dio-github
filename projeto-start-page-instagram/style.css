@@ -132,11 +132,11 @@ Parametrização 2 celular*/
 }
 
 .app-download:nth-child(1) {
-    background-image: url(/fts/pt-br_badge_web_generic.png);
+    background-image: url(../projeto-start-page-instagram/fts/pt-br_badge_web_generic.png);
 }
 
 .app-download:nth-child(2){
-    background-image: url(/fts/image.png);
+    background-image: url(../projeto-start-page-instagram/fts/image.png);
 }
 
 /* media queries tablet/mobile */
